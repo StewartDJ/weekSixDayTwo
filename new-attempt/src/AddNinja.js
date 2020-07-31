@@ -31,7 +31,7 @@ handleSubmit = (e) => {
 
                     
                     <label htmlFor="belt">Belt:</label>
-                    <input type="text" id="name" onChange={this.handleChange} />
+                    <input type="text" id="belt" onChange={this.handleChange} />
                 <button>Submit</button>
                 
     
